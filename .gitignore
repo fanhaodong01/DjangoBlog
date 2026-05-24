@@ -58,6 +58,10 @@ docs/_build/
 target/
 
 
+# VS Code
+.vscode/
+
+
 # PyCharm
 # http://www.jetbrains.com/pycharm/webhelp/project.html
 .idea
